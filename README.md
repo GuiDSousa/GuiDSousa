@@ -2,6 +2,8 @@
 
 <div align="center">
   
+  <img src="https://i.imgur.com/vde3O8R.gif" alt="Photoshop" height="111" width="111" />
+  
   | Atualmente estou no 4º semestre de Ciência da Computação |
   
   | Sou apaixonado pelos meus gatos (todos os 6) |
