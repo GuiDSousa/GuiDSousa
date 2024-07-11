@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  <img src="https://i.imgur.com/vde3O8R.gif" alt="Photoshop" height="111" width="111" />
+ ![sprite tocha-export](https://github.com/GuiDSousa/GuiDSousa/assets/104875710/32332ece-563e-43ba-bfc5-314ea52ab85f)
+
   
   | Atualmente estou no 4º semestre de Ciência da Computação |
   
