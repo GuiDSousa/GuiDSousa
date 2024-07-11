@@ -1,28 +1,28 @@
-## Hi there 👋
+<h3 align="center">Olá pessoas, pode me chamar de Gui</h3>
 
-<!--
-**GuiDSousa/GuiDSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  | Atualmente estou no 4º semestre de Ciência da Computação |
+  
+  | Sou apaixonado pelos meus gatos (todos os 6) |
+  
+  | Sou fã de Metal e tenho um bode de estimação |
+  
+  | Pixel artista ainda amador, mas melhorando a cada dia|
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<h3 align="center">Sou profissa nisso aqui</h3>
+<p align="center">
+    <a href="seu link" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" height="50" width="40" />
+    </a>
+    <a href="seu link" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator" height="50" width="40" />
+    </a>
 </p>
 
-<h3 align="left" > Sou profissa nisso aqui</h3>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="" height="50" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="" height="50" width="40" /></a>
-</p>
-
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuiDSousa)](https://git.io/streak-stats)
+
+</div>
