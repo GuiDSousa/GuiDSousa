@@ -5,7 +5,7 @@
   
   <p>| Atualmente estou no 4º semestre de Ciência da Computação |</p>
   <p>| Sou apaixonado pelos meus gatos (todos os 6) |</p>
-  <p>| Sou fã de Metal e tenho um bode de estimação| </p>
+  <p>| Sou fã de Metal| </p>
   <p>| Pixel artista ainda amador, mas melhorando a cada dia | </p>
 </div>
 
