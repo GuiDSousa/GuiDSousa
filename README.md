@@ -1,10 +1,10 @@
 <h3 align="center">Olá pessoas, pode me chamar de Gui</h3>
 
-<div align="center">
+<div align="right">
   <img src="https://i.imgur.com/vde3O8R.gif" alt="Meu GIF" height="150" width="150" />
   
   <p>| Atualmente estou no 6º semestre de Ciência da Computação |</p>
-  <p>| Sou apaixonado pelos meus gatos (todos os 6) |</p>
+  <p>| Sou apaixonado pelos meus gatos (todos os 7) |</p>
   <p>| Sou fã de Metal| </p>
   <p>| Pixel artista ainda amador, mas melhorando a cada dia | </p>
 </div>
