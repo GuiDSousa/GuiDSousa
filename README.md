@@ -1,6 +1,6 @@
-<h3 align="center">Olá pessoas, pode me chamar de Gui</h3>
+<h3 align="left">Olá pessoas, pode me chamar de Gui</h3>
 
-<div align="right">
+<div align="left">
   <img src="https://i.imgur.com/vde3O8R.gif" alt="Meu GIF" height="150" width="150" />
   
   <p>| Atualmente estou no 6º semestre de Ciência da Computação |</p>
@@ -9,8 +9,8 @@
   <p>| Pixel artista ainda amador, mas melhorando a cada dia | </p>
 </div>
 
-<h3 align="center">Sou profissa nisso aqui</h3>
-<p align="center">
+<h3 align="left">Sou profissa nisso aqui</h3>
+<p align="left">
     <a href="seu link" target="blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" height="50" width="40" />
     </a>
@@ -22,7 +22,7 @@
     </a>
 </p>
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiDSousa" alt="GitHub Streak" />
   </a>
