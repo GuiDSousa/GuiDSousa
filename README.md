@@ -109,13 +109,20 @@ A complete game development project showcasing professional software engineering
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiDSousa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDSousa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuiDSousa&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiDSousa&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiDSousa&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF"/>
+
+</div>
+
 
 ---
 
