@@ -12,13 +12,10 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Computer Science student** at UESB with a strong focus on **software development** and **game development**. I love tackling complex technical challenges and building efficient, scalable solutions using modern technologies.
 
-- 🎮 Currently developing **The Last House on Hollow** - a complete game using Unity & C#
-- 💼 Working as an **IT Intern** at CETEP, providing technical support and infrastructure management
-- 🎨 Freelance **Graphic Designer** with 5+ years of experience
 - 🌱 Always learning about software architecture, design patterns, and performance optimization
 - 📍 Based in Vitória da Conquista, BA - Brazil
 
@@ -105,49 +102,6 @@ A complete game development project showcasing professional software engineering
 - 🎨 Built comprehensive game systems including UI, audio, and gameplay mechanics
 
 **Tech Stack:** `C#` `Unity` `OOP` `Design Patterns` `JSON` `FSM`
-
----
-
-### 🎲 [Kenney Jam 2025 Entry](https://github.com/GuiDSousa)
-**Aug 2025**
-
-48-hour game jam project demonstrating rapid development and team collaboration skills.
-
-**Key Achievements:**
-- ⚡ Delivered fully functional game within strict time constraints
-- 👥 Collaborated effectively in multidisciplinary team environment
-- 🚀 Implemented core gameplay systems through rapid prototyping
-- 🎯 Balanced code quality with time-to-market requirements
-
-**Tech Stack:** `C#` `Unity` `Rapid Prototyping` `Team Collaboration`
-
----
-
-## 💼 Professional Experience
-
-### 🖥️ IT Intern - CETEP
-**Jul 2025 - Present | Vitória da Conquista, BA**
-
-Providing comprehensive technical support and infrastructure management in an educational environment.
-
-**Responsibilities:**
-- 🔧 Diagnose and resolve hardware/software issues
-- 🌐 Manage network configurations and system administration
-- 💬 Deliver clear technical communication to non-technical users
-- 🛠️ Ensure high availability of IT infrastructure
-
----
-
-### 🎨 Freelance Graphic Designer
-**Jan 2020 - Present | Remote**
-
-Managing end-to-end visual design projects for diverse clients worldwide.
-
-**Key Skills:**
-- 📋 Project management from concept to delivery
-- 🎯 Translating business requirements into visual solutions
-- ⏰ Meeting tight deadlines while maintaining quality standards
-- 💼 Building and maintaining long-term client relationships
 
 ---
 
