@@ -113,7 +113,6 @@ A complete game development project showcasing professional software engineering
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiDSousa&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF"/>
 
 </div>
 
